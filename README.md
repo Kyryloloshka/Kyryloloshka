@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyryloloshka&label=Profile%20views&color=0e75b6&style=flat" alt="kyryloloshka" /> </p>
 
-- 🌱 I’m currently learning **React, ReactNative, Redux**
+- 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **kirillgalamov413@gmail.com**
 
