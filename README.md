@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from Ukraine</h3>
 <p align="center">
   🚀 3rd-year Software Engineering student at KPI<br/>
-  💻 4+ years in development, focusing on scalable back-end systems<br/>
+  💻 4+ years in development, focusing on scalable systems<br/>
   🛠 Passionate about clean architecture, design patterns, and high-quality code
 </p>
 
