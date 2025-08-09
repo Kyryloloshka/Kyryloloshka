@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halyamov Kyrylo</h1>
 <h3 align="center">A full-stack developer from Ukraine</h3>
-<p align='center'>I've been passionate about front-end development for 4 years now, and lately I've been getting into backend development. I am a third-year student at the National University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute". I am also actively trying myself in various other areas such as artificial intelligence, backend development, and application development, but only the front-end fascinates me the most so far.</p>
+<p align='center'>I've been passionate about front-end development for 4 years now, and lately I've been getting into backend development. I am a third-year student at the National University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute". I am also actively trying myself in various other areas such as artificial intelligence, backend development, and application development, but only the back-end fascinates me the most so far.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyryloloshka&label=Profile%20views&color=0e75b6&style=flat" alt="kyryloloshka" /> </p>
 
